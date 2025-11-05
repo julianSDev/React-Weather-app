@@ -8,10 +8,10 @@
 }
 
 :root {
-  --blue: #468bd0e3;
-  --navy-blue: #2f85c7ef;
-  --sky-blue: #58b7e0f1;
-  --dark-blue: rgba(123, 188, 223, 0.796);
+  --blue: #d0bb46e3;
+  --navy-blue: #c7922fef;
+  --sky-blue: #e0c758f1;
+  --dark-blue: rgba(223, 216, 123, 0.796);
 }
 
 body {
@@ -336,7 +336,7 @@ section .city .city-info .coordinate {
   margin: 15px 0;
   padding: 10px;
   border-radius: 15px;
-  background-color: #2f85c7ef;
+  background-color: #c7972fef;
 }
 
 .detail .weather-card h2 {

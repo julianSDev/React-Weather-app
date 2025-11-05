@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { IoIosArrowBack } from 'react-icons/io';
-import logo from '../assets/logo-white.png';
+import logo from '../assets/logo.png';
 
 const Navbar = () => {
   const location = useLocation();
